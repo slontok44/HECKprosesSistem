@@ -1,4 +1,4 @@
-![Logo](received_1025986074757503.webp)
+![Logo](IMG_20230427_083001_026.jpg)
 
 
 <h1 align="center">Hi 👋, we are Najmul Hasan Shanto </h1>
