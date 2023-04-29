@@ -1,4 +1,6 @@
-O![Logo](20230205_113325.png)
+          Najmul Hasan Shanto 
+
+![Logo](20230205_113325.png)
 
 ![Logo](20230204_210254.jpg)
 ![Logo](IMG_20230427_083001_026.jpg)
@@ -26,7 +28,4 @@ O![Logo](20230205_113325.png)
  <p align="left"> 
  <a href="https://www.facebook.com/najmulhasanshanto88990/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teamex2k22" height="30" width="40" /></a> 
  </p> 
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teamex2k22" height="30" width="40" /></a> 
- </p> 
-  
- 
+
