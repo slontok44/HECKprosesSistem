@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&width=435&lines=N-B-S-HACKERS-TEAM%F0%9F%94%A5)](https://git.io/typing-svg) 
+
+
+
 <h1 align="center">Najmul Hasan Shanto </h1>
 <h1 align="center">Version 2.2 </h1>
 
